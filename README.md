@@ -42,7 +42,7 @@
 <p align="center">
   <a href="https://github.com/Zowom"><img src="https://img.shields.io/badge/💼_Work_with_Me-blue?style=for-the-badge&logo=github" /></a>
   <a href="https://lichess.org/@/Wombia"><img src="https://img.shields.io/badge/♟️_Play_on_Lichess-black?style=for-the-badge&logo=lichess" /></a>
-  <a href="https://chess.com/member/YourChessComUsername"><img src="https://img.shields.io/badge/♚_Challenge_me_on_Chess.com-green?style=for-the-badge&logo=chess.com" /></a>
+  <a href="https://chess.com/member/Reworm"><img src="https://img.shields.io/badge/♚_Challenge_me_on_Chess.com-green?style=for-the-badge&logo=chess.com" /></a>
 </p>
 
 ---
@@ -52,7 +52,6 @@
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/Zowom"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
