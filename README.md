@@ -27,12 +27,12 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theshubhops&show_icons=true&theme=tokyonight" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theshubhops&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zowom&show_icons=true&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zowom&theme=tokyonight" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theshubhops&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zowom&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -40,8 +40,8 @@
 ### 🤝 Let’s Collaborate or Play Chess ♟️  
 
 <p align="center">
-  <a href="https://github.com/Theshubhops"><img src="https://img.shields.io/badge/💼_Work_with_Me-blue?style=for-the-badge&logo=github" /></a>
-  <a href="https://lichess.org/@/YourLichessUsername"><img src="https://img.shields.io/badge/♟️_Play_on_Lichess-black?style=for-the-badge&logo=lichess" /></a>
+  <a href="https://github.com/Zowom"><img src="https://img.shields.io/badge/💼_Work_with_Me-blue?style=for-the-badge&logo=github" /></a>
+  <a href="https://lichess.org/@/Wombia"><img src="https://img.shields.io/badge/♟️_Play_on_Lichess-black?style=for-the-badge&logo=lichess" /></a>
   <a href="https://chess.com/member/YourChessComUsername"><img src="https://img.shields.io/badge/♚_Challenge_me_on_Chess.com-green?style=for-the-badge&logo=chess.com" /></a>
 </p>
 
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/Theshubhops"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Zowom"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
@@ -61,7 +61,7 @@
 > “Code like a developer, think like a strategist.”
 
 <p align="center">
-  <img src="https://github.com/Theshubhops/Theshubhops/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Zowom/Zowom/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
